@@ -1,3 +1,5 @@
-Comunicador: Biel Gómez
-Verificada: Laia Costa
-Manager: Maria Ubiergo
+VERSIÓN 1:
+Cliente-servidor y consultas básicas
+  Manager: Maria Ubiergo
+  Verificada: Laia Costa
+  Comunicador: Biel Gómez
